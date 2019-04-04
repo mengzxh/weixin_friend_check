@@ -1202,3 +1202,4 @@ if __name__ == '__main__':
     webwx = WebWeixin()
     webwx.start()
     # print(__name__) # 注释
+    print(type(__name__))
